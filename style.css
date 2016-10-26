@@ -1,0 +1,75 @@
+@import 'https://fonts.googleapis.com/css?family=Fira+Sans:300,400,500|Russo+One';
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Fira Sans', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	min-width: 1000px;
+	background: white;
+}
+
+.main {
+	width: 900px;
+	margin: 100px auto;
+}
+
+p {
+	margin: 30px 0 0 0;
+}
+
+.logo {
+	font-family: 'Russo One', sans-serif;
+	font-size: 110%;
+	font-weight: 500;
+	color: #4d1d4d;
+	margin: 0;
+	line-height: 100%;
+}
+
+.logo.large {
+	font-size: 31px;
+}
+
+.logo.small {
+	font-size: 16px;
+}
+
+.accent {
+	font-weight: 500;
+}
+
+ul {
+	font-size: 95%;
+	font-weight: 300;
+}
+
+li {
+	margin-top: 10px;
+}
+
+/*
+.header {
+	display: flex;
+}
+
+.logo {
+	font-family: 'Russo One', sans-serif;
+	color: #4d1d4d;
+	text-align: center;
+}
+
+.logo .large {
+	font-size: 40px;
+	line-height:0;
+}
+
+.logo .small {
+	font-size: 20px;
+	line-height:0;
+}
+
+.menu {
+}
+*/
